@@ -1,30 +1,27 @@
-# Angularuser-role-management-project
+# UserRoleManagement
 
-A dynamic and robust application to manage users, roles, and their associated permissions. The system supports CRUD operations on users and roles, provides customizable permissions, and simulates API calls for a seamless user experience.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
 
-1.Prerequisites
-Ensure the following tools are installed on your system:
+## Development server
 
-Node.js (v16 or above)
-Angular CLI (v15 or above)
-JSON Server (for API simulation)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-2. Installation
-* Clone the repository:
+## Code scaffolding
 
-* Navigate to the project directory:cd user-role-management
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-* Install dependencies: npm install
+## Build
 
-* Start the Angular application: ng serve
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-* Open the browser and navigate to:http://localhost:4200
+## Running unit tests
 
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Contact
-For any queries or suggestions, please reach out at:
+## Running end-to-end tests
 
-Email: vijaylaxmimetege@gmail.com
-GitHub: Your GitHub Profile
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+## Further help
 
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
